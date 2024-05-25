@@ -1,5 +1,5 @@
 # Bitgesell Blockchain documentation
-A comprehensive documentation for Bitgesell Bockchain SDK
+A comprehensive documentation for Bitgesell Bockchain SDK updated on each major release.
 
 ## Getting started with the SDK
 
@@ -35,6 +35,8 @@ const sdkConfig = {
 
 const bitgesellBlockchainSDK = new BitgesellBlockchainSDK(sdkConfig)
 ```
+## A few examples
+
 ### Query Transactions
 To query transacton by the transaction `hash`:
 
