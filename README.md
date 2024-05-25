@@ -1,4 +1,5 @@
-# Bitgesell Blockchain documentation
+# `bitgesell-blockchain-sdk` Docs
+
 A comprehensive documentation for Bitgesell Bockchain SDK updated on each major release.
 
 ## Getting started with the SDK
